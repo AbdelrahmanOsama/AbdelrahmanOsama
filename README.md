@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father and Developer!!
 
-- 🔭 I Fullstack Developer
+- 🔭 I'm a full stack Developer and App Developer
 - 🌱 I’m currently learning GraphQL and AWS practitioner to get its certification
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
